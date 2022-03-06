@@ -1,0 +1,355 @@
+<!DOCTYPE UI><UI version="3.3" stdsetdef="1">
+<class>mainfrm</class>
+<widget class="QDialog">
+    <property name="name">
+        <cstring>mainfrm</cstring>
+    </property>
+    <property name="geometry">
+        <rect>
+            <x>0</x>
+            <y>0</y>
+            <width>1024</width>
+            <height>672</height>
+        </rect>
+    </property>
+    <property name="sizePolicy">
+        <sizepolicy>
+            <hsizetype>0</hsizetype>
+            <vsizetype>0</vsizetype>
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+        </sizepolicy>
+    </property>
+    <property name="minimumSize">
+        <size>
+            <width>1024</width>
+            <height>672</height>
+        </size>
+    </property>
+    <property name="maximumSize">
+        <size>
+            <width>1024</width>
+            <height>672</height>
+        </size>
+    </property>
+    <property name="baseSize">
+        <size>
+            <width>1024</width>
+            <height>672</height>
+        </size>
+    </property>
+    <property name="paletteBackgroundColor">
+        <color>
+            <red>235</red>
+            <green>239</green>
+            <blue>242</blue>
+        </color>
+    </property>
+    <property name="caption">
+        <string>Eggibault - Le jeu qui rend fou</string>
+    </property>
+    <widget class="QFrame">
+        <property name="name">
+            <cstring>frame3</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>862</x>
+                <y>0</y>
+                <width>170</width>
+                <height>676</height>
+            </rect>
+        </property>
+        <property name="paletteBackgroundColor">
+            <color>
+                <red>213</red>
+                <green>213</green>
+                <blue>213</blue>
+            </color>
+        </property>
+        <property name="frameShape">
+            <enum>StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+            <enum>Raised</enum>
+        </property>
+        <widget class="QPushButton">
+            <property name="name">
+                <cstring>pushButton1</cstring>
+            </property>
+            <property name="geometry">
+                <rect>
+                    <x>8</x>
+                    <y>10</y>
+                    <width>151</width>
+                    <height>31</height>
+                </rect>
+            </property>
+            <property name="focusPolicy">
+                <enum>NoFocus</enum>
+            </property>
+            <property name="text">
+                <string>Level suivant</string>
+            </property>
+        </widget>
+        <widget class="QPushButton">
+            <property name="name">
+                <cstring>pushButton2</cstring>
+            </property>
+            <property name="geometry">
+                <rect>
+                    <x>8</x>
+                    <y>50</y>
+                    <width>151</width>
+                    <height>31</height>
+                </rect>
+            </property>
+            <property name="focusPolicy">
+                <enum>NoFocus</enum>
+            </property>
+            <property name="text">
+                <string>Level précédent</string>
+            </property>
+        </widget>
+        <widget class="QPushButton">
+            <property name="name">
+                <cstring>pushButton3</cstring>
+            </property>
+            <property name="geometry">
+                <rect>
+                    <x>8</x>
+                    <y>90</y>
+                    <width>151</width>
+                    <height>31</height>
+                </rect>
+            </property>
+            <property name="focusPolicy">
+                <enum>NoFocus</enum>
+            </property>
+            <property name="text">
+                <string>Recommencer le level</string>
+            </property>
+        </widget>
+        <widget class="QLineEdit">
+            <property name="name">
+                <cstring>info</cstring>
+            </property>
+            <property name="geometry">
+                <rect>
+                    <x>1</x>
+                    <y>640</y>
+                    <width>169</width>
+                    <height>31</height>
+                </rect>
+            </property>
+            <property name="paletteBackgroundColor">
+                <color>
+                    <red>213</red>
+                    <green>213</green>
+                    <blue>213</blue>
+                </color>
+            </property>
+            <property name="font">
+                <font>
+                    <bold>1</bold>
+                </font>
+            </property>
+            <property name="focusPolicy">
+                <enum>NoFocus</enum>
+            </property>
+            <property name="acceptDrops">
+                <bool>false</bool>
+            </property>
+            <property name="frameShape">
+                <enum>NoFrame</enum>
+            </property>
+            <property name="frameShadow">
+                <enum>Plain</enum>
+            </property>
+            <property name="text">
+                <string>Level : 1</string>
+            </property>
+            <property name="alignment">
+                <set>AlignHCenter</set>
+            </property>
+            <property name="dragEnabled">
+                <bool>false</bool>
+            </property>
+            <property name="readOnly">
+                <bool>true</bool>
+            </property>
+        </widget>
+        <widget class="QLineEdit">
+            <property name="name">
+                <cstring>info_pouvoirs</cstring>
+            </property>
+            <property name="geometry">
+                <rect>
+                    <x>1</x>
+                    <y>140</y>
+                    <width>169</width>
+                    <height>31</height>
+                </rect>
+            </property>
+            <property name="paletteBackgroundColor">
+                <color>
+                    <red>213</red>
+                    <green>213</green>
+                    <blue>213</blue>
+                </color>
+            </property>
+            <property name="font">
+                <font>
+                    <bold>1</bold>
+                </font>
+            </property>
+            <property name="focusPolicy">
+                <enum>NoFocus</enum>
+            </property>
+            <property name="acceptDrops">
+                <bool>false</bool>
+            </property>
+            <property name="frameShape">
+                <enum>NoFrame</enum>
+            </property>
+            <property name="frameShadow">
+                <enum>Plain</enum>
+            </property>
+            <property name="text">
+                <string>Pouvoirs : 0</string>
+            </property>
+            <property name="alignment">
+                <set>AlignHCenter</set>
+            </property>
+            <property name="dragEnabled">
+                <bool>false</bool>
+            </property>
+            <property name="readOnly">
+                <bool>true</bool>
+            </property>
+        </widget>
+    </widget>
+</widget>
+<connections>
+    <connection>
+        <sender>pushButton1</sender>
+        <signal>clicked()</signal>
+        <receiver>mainfrm</receiver>
+        <slot>nextlevel()</slot>
+    </connection>
+    <connection>
+        <sender>pushButton2</sender>
+        <signal>clicked()</signal>
+        <receiver>mainfrm</receiver>
+        <slot>prevlevel()</slot>
+    </connection>
+    <connection>
+        <sender>pushButton3</sender>
+        <signal>clicked()</signal>
+        <receiver>mainfrm</receiver>
+        <slot>restartlevel()</slot>
+    </connection>
+</connections>
+<includes>
+    <include location="local" impldecl="in declaration">qlabel.h</include>
+    <include location="local" impldecl="in declaration">qevent.h</include>
+    <include location="local" impldecl="in declaration">qpixmap.h</include>
+    <include location="local" impldecl="in declaration">qevent.h</include>
+    <include location="local" impldecl="in declaration">qtimer.h</include>
+    <include location="local" impldecl="in implementation">mainfrm.ui.h</include>
+</includes>
+<variables>
+    <variable>QTimer *mytimer;</variable>
+    <variable>QTimer *mytimer_2;</variable>
+    <variable>QTimer *mytimer_3;</variable>
+    <variable>QTimer *mytimer_4;</variable>
+    <variable>QTimer *mytimer_5;</variable>
+    <variable>QLabel *mylab;</variable>
+    <variable>QLabel *pntlab;</variable>
+    <variable>QLabel *pntdep;</variable>
+    <variable>QLabel *pntpok;</variable>
+    <variable>int posx;</variable>
+    <variable>int posy;</variable>
+    <variable>int herox;</variable>
+    <variable>int heroy;</variable>
+    <variable>int culevel;</variable>
+    <variable>int indice0;</variable>
+    <variable>int indice1;</variable>
+    <variable>int indice2;</variable>
+    <variable>int indice3;</variable>
+    <variable>int indice4;</variable>
+    <variable>int indice5;</variable>
+    <variable>int indicex;</variable>
+    <variable>int indicey;</variable>
+    <variable>bool ok;</variable>
+    <variable>QString tmp01;</variable>
+    <variable>QString tmp02;</variable>
+    <variable>QString tmp03;</variable>
+    <variable>QString tmp04;</variable>
+    <variable>QString progress;</variable>
+    <variable>QString plateau[18][14];</variable>
+    <variable>QLabel *table_cube[90];</variable>
+    <variable>QLabel *table_cube_neige[50];</variable>
+    <variable>QLabel *table_coeur[50];</variable>
+    <variable>QLabel *table_hache[10];</variable>
+    <variable>QLabel *table_bateau_1[5];</variable>
+    <variable>QLabel *table_mur[150];</variable>
+    <variable>QLabel *table_surprise[50];</variable>
+    <variable>QLabel *table_bombe[20];</variable>
+    <variable>QLabel *table_monstre_1[30];</variable>
+    <variable>QLabel *table_monstre_2[30];</variable>
+    <variable>QLabel *table_monstre_3[30];</variable>
+    <variable>QLabel *table_monstre_4[30];</variable>
+    <variable>QLabel *table_monstre_5[30];</variable>
+    <variable>QLabel *table_glace[80];</variable>
+    <variable>QLabel *table_autre[50];</variable>
+    <variable>QLabel *table_eau[90];</variable>
+    <variable>QLabel *table_cube_magique[30];</variable>
+    <variable>int table_locmons_1[30][3];</variable>
+    <variable>int table_locmons_2[30][3];</variable>
+    <variable>int table_locmons_3[30][4];</variable>
+    <variable>int table_locmons_4[30][4];</variable>
+    <variable>int table_locmons_5[30][3];</variable>
+    <variable>int table_locbato_1[5][4];</variable>
+    <variable>QString table_locbato_2[5][2];</variable>
+    <variable>int table_loccubm_1[50][2];</variable>
+    <variable>int cpt_mur;</variable>
+    <variable>int cpt_eau;</variable>
+    <variable>int cpt_cube;</variable>
+    <variable>int cpt_coeur;</variable>
+    <variable>int cpt_autre;</variable>
+    <variable>int cpt_glace;</variable>
+    <variable>int cpt_bombe;</variable>
+    <variable>int cpt_hache;</variable>
+    <variable>int cpt_bateau_1;</variable>
+    <variable>int cpt_surprise;</variable>
+    <variable>int cpt_monstre_1;</variable>
+    <variable>int cpt_monstre_2;</variable>
+    <variable>int cpt_monstre_3;</variable>
+    <variable>int cpt_monstre_4;</variable>
+    <variable>int cpt_monstre_5;</variable>
+    <variable>int cpt_cube_neige;</variable>
+    <variable>int cpt_cube_magique;</variable>
+    <variable>int max_coeur;</variable>
+    <variable>int nbre_surprise_prise</variable>
+</variables>
+<slots>
+    <slot>charge_level()</slot>
+    <slot>keyPressEvent( QKeyEvent * k )</slot>
+    <slot>ctrl_surprise()</slot>
+    <slot>move_ennemis()</slot>
+    <slot>move_ennemis_3()</slot>
+    <slot>move_ennemis_4()</slot>
+    <slot>move_ennemis_5()</slot>
+    <slot>move_bateaux_1()</slot>
+    <slot>ctrl_poissons()</slot>
+    <slot>ctrl_deplacement( int depx, int depy )</slot>
+    <slot>cassetout()</slot>
+    <slot>init()</slot>
+    <slot>vidage()</slot>
+    <slot>nextlevel()</slot>
+    <slot>prevlevel()</slot>
+    <slot>restartlevel()</slot>
+</slots>
+<layoutdefaults spacing="6" margin="11"/>
+</UI>

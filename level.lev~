@@ -1,0 +1,735 @@
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K000  0  0  C000  C010  C020  C030  C040  0  K01M  999
+M  0  C050  C060  C070  C080  C090  C100  C110  0  M  999
+M  C120  C130  C140  C150  C160  C170  C180  C190  M  999
+M  0  C200  C210  C220  C230  C240  C250  C260  C27M  999
+M  C280  C290  C300  C310  C320  C330  C340  C350  M  999
+M  0  C360  C370  C380  C39K02C400  C410  C420  C43M  999
+M  C440  C450  C460  C470  C480  C490  C500  C510  M  999
+M  0  C520  C530  C540  C550  C560  C570  C580  C59M  999
+M  C600  C610  C620  C630  C640  C650  C660  C670  M  999
+M  0  C680  C690  C700  C710  C720  C730  C740  0  M  999
+M  C750  C760  C770  C780  C790  C800  C810  0  0  M  999
+M  0  0  0  C820  C830  C840  C850  C860  C870  K03M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  B00K000  K01M  0  0  M  0  K020  K030  K040  K05M  999
+M  K060  K070  0  0  0  E000  0  0  E010  0  E020  M  999
+M  0  K080  0  M  0  0  M  0  M  0  0  0  0  0  0  M  999
+M  K090  0  M  M  M  0  M  0  0  0  0  0  0  0  0  M  999
+M  M  M  C00M  M  M  S01M  M  M  0  M  M  0  M  M  M  999
+M  0  E030  K100  0  0  0  0  M  0  0  0  0  C020  M  999
+M  M  M  M  M  M  0  0  M  0  M  0  M  0  0  C03B01M  999
+M  E040  0  0  C040  M  M  K11M  K12M  0  0  C050  M  999
+M  0  S060  0  M  0  M  M  M  M  M  M  0  0  C07S08M  999
+M  A  0  0  0  S090  0  C100  C110  C120  0  M  M  M  999
+M  M  M  M  M  M  0  0  C13B02C14K13C15E050  0  E06M  999
+M  0  0  0  A  0  0  0  C160  C170  C18A  K14K15K16M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K000  E000  0  C00M  K01E010  M  B000  0  E02C01M  999
+M  M  M  0  0  M  M  M  0  0  M  M  M  0  0  M  M  M  999
+M  K020  0  0  M  0  M  M  0  0  M  0  0  0  0  0  M  999
+M  K030  0  0  M  0  M  0  S020  M  0  M  0  M  0  M  999
+M  M  M  0  0  0  0  0  S030  S040  0  0  0  M  0  M  999
+M  K04M  0  0  M  M  M  M  0  M  M  M  M  A  0  0  M  999
+M  K05M  M  M  M  0  0  0  0  0  0  0  M  M  M  M  M  999
+M  K060  0  0  M  0  0  0  M  0  0  0  S050  0  0  M  999
+M  0  0  0  0  S060  0  A  0  0  0  0  M  M  K07B01M  999
+M  A  B02B030  M  0  M  M  M  M  M  0  0  M  M  M  M  999
+M  M  M  M  M  M  M  0  0  0  C070  C080  C090  0  M  999
+M  0  0  0  0  0  C100  0  0  0  0  0  C110  0  B04M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  C000  M  999
+M  0  K00M  M  M  M  M  M  M  M  M  M  M  M  M  0  M  999
+M  0  M  M  0  C010  C020  0  C030  0  C040  0  0  M  999
+M  0  M  K010  0  0  C050  0  C060  0  C070  0  0  M  999
+M  0  M  M  S08M  M  M  M  M  M  M  M  M  M  M  0  M  999
+M  0  M  0  0  0  0  0  0  0  0  0  0  0  0  M  0  M  999
+M  0  M  0  M  0  M  M  M  0  M  M  M  C09M  M  0  M  999
+M  0  C100  0  0  0  0  0  0  0  0  M  0  B00M  0  M  999
+M  0  M  M  0  M  0  0  0  E000  0  E010  E02M  0  M  999
+M  0  0  0  0  M  K02K03K04K05K06M  M  M  M  M  B01M  999
+M  0  M  M  M  M  M  M  M  M  M  M  0  0  0  M  M  M  999
+M  0  S110  A  0  0  0  A  0  0  0  0  0  0  0  K07M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K000  0  0  G00M  D000  0  0  K01M  0  0  0  0  M  999
+M  M  M  0  0  M  M  M  0  0  M  M  M  C00C01C02C03M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  B00S04M  0  0  0  0  0  M  0  0  0  0  0  M  0  M  999
+M  0  0  0  0  0  M  0  0  0  0  0  K020  0  0  0  M  999
+M  M  M  0  0  0  0  0  M  K03K04K05K06K070  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  K080  0  0  0  M  999
+M  0  M  M  0  M  0  M  M  0  0  0  0  0  0  0  0  M  999
+M  0  M  0  0  0  E000  M  0  M  0  0  M  K09M  K10M  999
+M  0  M  0  0  0  0  0  M  0  0  M  0  K110  0  0  M  999
+M  0  M  0  0  0  0  0  M  0  S050  0  M  0  S060  M  999
+M  0  M  B01B02K120  G01M  A  0  0  0  K13A  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  M  M  M  K00K01M  M  M  0  0  0  0  M  999
+M  0  0  0  0  M  0  0  0  0  0  0  M  0  0  0  0  M  999
+M  C00C01C02C03M  D000  0  0  0  0  M  C04C05C06C07M  999
+M  0  0  0  0  M  0  0  0  0  0  G00M  0  0  0  0  M  999
+M  0  0  0  0  M  D010  0  0  0  0  M  0  0  0  0  M  999
+M  0  0  0  0  M  0  0  0  0  0  G01M  0  0  0  0  M  999
+M  0  0  0  0  M  D020  0  0  0  0  M  0  0  0  0  M  999
+M  0  0  0  0  M  0  0  0  0  0  G02M  0  0  0  0  M  999
+M  0  0  0  0  M  D030  0  0  0  B00M  0  0  0  0  M  999
+M  0  0  0  0  M  0  0  K02K030  S08M  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  K04K050  0  0  0  0  0  0  M  999
+M  0  A  0  0  A  0  0  A  E000  A  0  0  A  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  C000  0  0  M  0  0  M  D000  0  K000  0  G00M  999
+M  0  C010  M  0  K010  0  M  M  0  0  0  0  0  M  M  999
+M  0  C020  0  0  S03M  C04M  D010  0  0  0  0  G01M  999
+M  0  C050  M  0  K020  0  M  M  0  0  0  0  0  M  M  999
+M  0  C060  0  0  M  0  0  M  D020  0  0  0  0  G02M  999
+M  0  C070  M  0  K030  0  M  M  0  0  0  0  0  M  M  999
+M  0  C080  0  0  M  0  0  M  D030  0  0  0  0  G03M  999
+M  0  C090  M  0  K040  0  M  M  0  0  0  0  0  M  M  999
+M  0  C100  0  0  M  0  0  0  0  0  0  0  0  0  K05M  999
+M  0  C110  M  0  K060  0  0  0  M  0  0  0  M  K07M  999
+M  0  C120  0  0  M  0  0  0  0  0  0  M  0  0  M  M  999
+M  0  C130  M  0  K080  A  A  0  M  D040  0  0  B00M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  M  0  M  0  0  K00K01K02K03K04M  999
+M  0  C000  C010  0  0  0  M  Z000  0  K05K06K07K08M  999
+M  0  0  C020  C030  M  0  M  0  0  0  0  K09K10K11M  999
+M  0  C040  C050  0  M  0  M  K120  0  0  0  K13K14M  999
+M  0  0  0  0  0  0  M  0  M  K15K160  0  0  0  K17M  999
+M  M  M  M  M  M  0  M  0  M  M  M  M  K18M  K19M  M  999
+M  0  0  0  FD 0  0  0  A  0  0  0  0  0  0  0  0  M  999
+M  0  M  M  M  M  0  0  M  M  M  0  0  S060  S070  M  999
+M  0  M  D000  0  0  0  0  B00M  0  0  0  0  0  0  M  999
+M  0  M  D010  0  0  0  0  B01M  0  M  C08C09M  M  M  999
+M  0  M  M  M  M  0  0  M  M  M  0  M  0  0  0  M  M  999
+M  0  0  0  FG 0  0  0  0  0  0  0  M  0  0  Z01K20M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  M  0  0  0  M  K00K01K02M  D000  0  0  0  K03M  999
+M  0  M  0  M  0  M  0  0  0  M  M  M  M  0  0  M  M  999
+M  0  M  C00M  0  M  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  FD 0  0  0  0  0  C010  M  0  0  0  0  0  0  M  999
+M  0  M  0  M  0  M  0  0  0  M  0  0  0  K040  0  M  999
+M  0  FG 0  0  0  M  M  M  M  M  0  0  K05Z00K060  M  999
+M  0  M  0  M  0  0  0  0  0  C020  M  0  K070  0  M  999
+M  0  FD 0  0  0  M  0  0  0  M  0  0  0  0  0  0  M  999
+M  0  M  C03M  0  0  M  0  0  0  M  0  0  0  0  0  M  999
+M  0  FG 0  FG 0  0  0  0  0  0  A  0  0  0  0  M  M  999
+M  0  M  0  M  0  0  0  0  0  0  M  M  M  0  0  M  M  999
+M  0  M  Z01M  D010  K08K090  G00M  K100  0  0  G01M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K00E000  0  M  M  0  0  M  M  M  0  0  0  0  0  M  999
+M  M  0  0  0  C00M  0  0  0  A  0  0  0  0  0  0  M  999
+M  C01M  0  M  M  M  0  0  M  M  M  M  E010  0  K01M  999
+M  0  0  0  0  0  0  0  0  0  G00M  K020  0  0  0  M  999
+M  0  M  0  M  0  0  0  0  M  M  M  M  E020  0  K03M  999
+M  0  FD 0  0  0  0  0  0  0  FG 0  A  0  0  0  0  M  999
+M  M  0  M  0  M  M  0  0  M  M  M  M  M  M  C02C03M  999
+M  0  0  0  0  0  M  0  0  0  A  0  0  0  M  M  M  M  999
+M  0  0  C040  0  FD 0  0  0  M  M  M  K04M  0  M  M  999
+M  0  C05K05C060  M  0  M  K06M  K07M  K08M  0  M  M  999
+M  0  0  C070  M  M  0  M  M  M  0  M  M  M  0  M  M  999
+M  0  A  0  0  M  A  0  0  A  0  0  0  0  0  Z00G01M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  Z00M  999
+M  0  C00M  C01M  C02M  C03M  C04M  C05M  C06M  0  M  999
+M  0  M  D000  K000  0  0  0  0  0  0  0  0  C070  M  999
+M  0  C080  0  0  0  K010  0  0  0  0  0  G00M  0  M  999
+M  0  M  D010  0  0  0  0  0  0  0  0  0  0  C090  M  999
+M  0  C100  0  0  0  0  0  K020  0  0  0  G01M  0  M  999
+M  0  M  D020  0  0  0  0  0  0  0  0  0  0  C110  M  999
+M  0  C120  0  0  0  0  0  0  0  K030  0  G02M  0  M  999
+M  0  M  D030  0  0  0  0  0  0  0  0  0  0  C130  M  999
+M  0  C140  0  0  0  0  0  0  0  0  K040  G03M  0  M  999
+M  0  M  C15M  C16M  C17M  C18M  C19M  C20M  C210  M  999
+M  0  A  0  0  A  0  0  A  0  0  A  0  0  A  0  Z01M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  M  K00M  0  M  0  M  B000  0  G00M  K010  0  G01M  999
+M  0  0  C00FG FD 0  M  0  0  0  0  0  B010  0  G02M  999
+M  M  0  C01FG FD 0  M  D000  0  0  M  M  0  0  M  M  999
+M  0  0  M  0  M  0  M  M  M  0  0  M  D010  0  K02M  999
+M  M  0  M  0  M  0  0  0  0  0  0  M  D020  0  K03M  999
+M  0  0  C02FG FD 0  0  0  K040  0  M  M  0  0  M  M  999
+M  M  C03C04FG FD 0  0  0  K050  0  0  0  0  0  0  M  999
+M  0  0  M  0  M  0  M  0  0  0  0  0  A  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  M  M  0  M  M  M  M  M  999
+M  M  M  0  M  M  M  C05K06M  M  0  0  0  0  0  0  M  999
+M  0  0  0  M  0  0  0  C060  M  0  0  S07C08S09C10M  999
+M  0  0  0  M  0  0  0  0  Z00M  0  0  C110  C120  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  M  0  0  0  0  0  0  0  0  M  D000  K00K01M  999
+M  0  L000  0  0  0  0  0  0  L010  M  D010  K02K03M  999
+M  0  0  M  0  0  0  0  0  0  M  0  FD 0  0  0  0  M  999
+M  0  0  M  0  0  0  0  0  0  M  K04M  0  0  0  0  M  999
+M  0  0  M  0  0  C000  0  0  M  M  M  0  0  0  0  M  999
+M  0  0  0  0  C01K05C020  0  M  K06M  0  0  0  0  M  999
+M  0  0  M  0  0  C030  0  0  M  K07M  D020  0  0  M  999
+M  0  0  M  0  0  0  0  0  0  0  0  M  0  0  0  0  M  999
+M  0  0  M  K080  0  0  0  0  0  G00M  D030  0  0  M  999
+M  0  0  M  M  C04M  M  M  M  M  M  M  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  A  0  A  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  M  M  0  0  0  0  M  M  M  0  0  0  0  0  0  0  M  999
+M  M  M  0  0  0  0  0  M  M  0  C00C01C02C03C040  M  999
+M  M  M  0  0  M  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  M  M  0  M  M  0  0  M  M  M  M  M  M  M  M  M  M  999
+M  M  M  0  M  M  0  M  M  M  M  M  M  M  M  M  M  M  999
+M  M  M  0  M  M  0  0  M  M  M  M  M  M  0  0  0  M  999
+M  M  M  0  M  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  M  M  0  M  0  0  0  M  M  M  M  M  M  0  0  0  M  999
+M  M  M  0  M  M  M  M  M  0  0  M  M  M  M  0  M  M  999
+M  0  0  0  M  M  M  M  0  L000  0  M  M  0  0  0  M  999
+M  0  M  0  G00M  M  M  0  0  0  0  0  0  0  0  0  M  999
+M  0  K000  G01M  M  M  0  0  0  0  M  M  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  K000  0  0  0  0  0  M  M  0  0  0  0  0  0  M  999
+M  0  M  0  0  0  0  0  0  0  0  0  0  M  0  L000  M  999
+M  0  C000  0  0  0  0  M  0  0  0  0  0  0  0  0  M  999
+M  0  C010  0  0  0  0  M  0  M  M  M  M  M  M  M  M  999
+M  0  C020  0  0  0  M  M  0  0  0  0  0  M  0  M  M  999
+M  0  C030  0  0  M  M  0  0  0  0  0  0  0  0  0  M  999
+M  M  M  M  0  0  0  0  0  0  0  M  0  L010  0  K01M  999
+M  0  FD 0  0  0  M  M  M  M  M  M  K02M  0  0  0  M  999
+M  0  M  0  0  0  0  0  0  M  M  M  M  M  M  M  M  M  999
+M  0  FG 0  0  0  0  0  0  0  0  M  W00W01M  K03K04M  999
+M  0  M  0  0  0  0  0  0  0  0  0  W02W030  K05K06M  999
+M  0  M  A  0  A  0  0  0  0  Z00M  W04W05M  K07K08M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  M  0  0  0  0  0  0  M  K000  0  G00M  999
+M  M  0  0  0  FG 0  M  M  M  M  C00M  C010  0  M  M  999
+M  0  0  L00C02M  0  K01M  0  Z000  0  0  0  0  0  M  999
+M  M  0  0  0  FD 0  M  M  M  M  M  M  0  M  0  M  M  999
+M  0  0  C030  M  0  0  L010  0  0  0  0  0  0  0  M  999
+M  M  S04M  M  M  M  M  M  M  M  M  M  0  M  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  M  M  C05M  999
+M  0  0  M  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  M  M  M  M  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  C060  0  0  0  M  M  M  0  M  M  M  W00M  M  999
+M  0  0  C070  0  0  M  M  0  0  0  0  M  0  0  0  M  999
+M  0  A  A  0  K020  G01M  D000  0  B00M  K030  G02M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  FD 0  M  K00K010  0  0  0  G00M  0  0  0  M  999
+M  0  M  M  0  M  M  M  0  0  0  M  M  M  0  0  0  M  999
+M  0  M  0  0  0  M  0  0  0  0  0  0  M  0  L000  M  999
+M  0  M  0  C000  M  0  0  0  0  0  0  M  0  L010  M  999
+M  0  M  0  C010  M  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  M  0  C020  M  0  0  0  0  0  0  M  0  0  0  M  999
+M  0  M  0  C030  M  0  0  0  0  0  0  M  M  M  M  M  999
+M  0  M  0  C040  M  0  0  0  0  0  0  0  M  K02M  M  999
+M  0  M  0  X000  0  0  0  0  0  0  0  0  W00W01M  M  999
+M  0  M  0  0  0  M  FB M  0  0  0  0  0  W02W03K03M  999
+M  0  M  M  M  M  M  0  M  0  0  0  0  0  W04W05M  M  999
+M  0  0  0  0  0  0  0  M  M  0  0  0  0  M  K04M  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  Z000  0  0  0  0  C000  0  0  0  0  0  0  0  G00M  999
+M  0  0  0  0  0  0  C010  0  0  0  0  0  0  0  M  M  999
+M  K00K01M  M  M  M  M  A  A  A  A  0  0  0  0  0  M  999
+M  M  M  M  0  0  0  M  M  M  M  M  M  M  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  FD 0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  M  0  0  G01M  999
+M  M  M  M  L00C02M  0  0  0  0  0  0  FG 0  0  0  M  999
+M  K020  0  0  0  M  M  M  M  0  0  0  M  M  M  M  M  999
+M  0  0  0  0  0  M  K030  W000  0  0  M  0  0  0  M  999
+M  0  0  0  0  Z01M  K040  M  0  0  0  M  0  L010  M  999
+M  M  M  M  M  M  M  M  M  M  M  W01M  M  0  X000  M  999
+M  0  0  A  A  0  0  A  A  A  0  0  0  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K00W00M  W01W020  0  0  M  D000  K01M  0  K020  M  999
+M  K03W03W04M  W050  0  0  M  0  0  0  M  C00C01C02M  999
+M  K04M  W06W07W080  0  0  0  0  0  0  FG 0  0  0  M  999
+M  M  M  M  M  M  0  0  0  0  0  0  0  S030  0  0  M  999
+M  K050  B000  C040  0  0  0  0  0  0  M  0  0  0  M  999
+M  D010  0  0  0  0  0  0  0  0  0  0  M  0  0  0  M  999
+M  M  M  M  0  M  FB M  M  M  C05M  FH M  M  M  M  M  999
+M  0  0  0  0  FD 0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  M  M  M  M  0  0  L000  0  M  0  0  X000  0  M  999
+M  0  0  0  0  M  0  L010  L020  M  0  X010  X020  M  999
+M  M  M  M  0  M  0  0  L030  0  M  0  0  X030  0  M  999
+M  0  0  0  0  M  0  0  0  0  0  FD 0  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K000  0  0  0  0  0  0  0  0  0  M  0  0  0  0  M  999
+M  D000  0  0  0  0  0  X000  L00M  M  0  0  0  0  M  999
+M  D010  0  0  0  0  0  0  0  0  K010  0  0  0  0  M  999
+M  D020  0  0  0  0  0  0  C00M  M  M  M  M  0  M  M  999
+M  D030  0  0  0  0  0  0  0  0  0  M  W00W01W02W03M  999
+M  M  M  S01M  S02M  S03M  S04M  0  M  M  M  0  M  M  999
+M  0  FD 0  FD 0  FD 0  FD 0  FD 0  M  K02K03K04K05M  999
+M  0  M  0  M  0  M  0  M  0  M  0  M  0  0  0  0  M  999
+M  0  M  0  M  0  M  0  M  0  M  0  M  0  0  0  G00M  999
+M  0  M  0  M  0  M  0  M  0  M  0  M  0  0  0  0  M  999
+M  0  M  Z00M  Z01M  Z02M  Z03M  0  M  K06K07K08K09M  999
+M  0  FG B00FG B01FG B02FG B03FG 0  FG 0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K00K01A  0  0  0  0  0  0  0  M  K02K03K04K05K06M  999
+M  M  M  M  M  M  L00M  0  0  0  M  C00C01C02C03K07M  999
+M  W00W01W02W03W04X00M  0  0  X01M  FB FH FB FH FB M  999
+M  W05W06M  W07W08W09C040  0  0  0  0  0  0  0  K08M  999
+M  X02W10L01X03M  W11M  0  0  0  0  0  0  0  0  0  M  999
+M  L02W12M  W13W14W15M  0  0  0  0  0  0  0  0  0  M  999
+M  W16W17W18W19W20W21M  L030  0  M  M  M  0  0  M  M  999
+M  X04W22W23W24M  W25M  0  0  0  M  D000  W26W270  M  999
+M  0  W28W29W30W31W32M  FH M  0  M  0  0  0  M  0  M  999
+M  L040  W33W34W35W36W37W38M  0  M  0  K09K10M  K11M  999
+M  0  0  0  W39W40L05X05W41M  0  M  FB M  M  M  FB M  999
+M  0  0  L060  X06W42W43W44M  0  FG K12K13K14K15K16M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  FD 0  FD 0  FD 0  M  M  M  M  M  M  M  M  M  M  999
+M  0  M  0  M  0  M  0  M  0  FD 0  FD 0  FD K00M  M  999
+M  FH M  FH M  FH M  FH M  FH M  FB M  FB M  FB M  M  999
+M  0  FG 0  FD 0  FD 0  FD 0  M  K01M  0  FG K02M  M  999
+M  FH M  FH M  M  M  M  M  M  M  FB M  FB M  M  M  M  999
+M  0  FG 0  M  0  FG 0  FG 0  FG 0  M  0  FD 0  M  M  999
+M  FH M  FH M  FB M  FH M  FB M  FH M  FB M  FB M  M  999
+M  0  FG 0  FG 0  FG 0  FG 0  FD 0  FG 0  FG 0  M  M  999
+M  FB M  FB M  FB M  FH M  FH M  FH M  FH M  FB M  M  999
+M  0  FD 0  FD 0  FD 0  FG 0  FG 0  FG 0  FD 0  M  M  999
+M  FH M  FH M  FH M  FH M  FB M  FB M  FH M  FB M  M  999
+M  0  FG K03FG 0  FG 0  FG 0  FD 0  FG 0  FG 0  M  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K00K01W00W01W020  0  0  M  0  0  0  0  0  0  0  M  999
+M  K02K03W03X00W040  L000  M  0  M  0  0  0  0  0  M  999
+M  K04K05M  0  M  M  M  0  M  0  0  0  0  M  0  0  M  999
+M  K06K07M  0  M  K080  0  0  0  0  0  0  M  0  0  M  999
+M  M  M  M  0  M  M  0  0  C00C010  0  0  0  0  0  M  999
+M  D000  Z000  0  M  0  0  0  M  0  0  M  0  0  0  M  999
+M  M  M  M  0  M  M  M  0  C02C03C040  M  0  M  M  M  999
+M  D010  Z010  0  M  0  0  0  M  0  0  M  0  0  0  M  999
+M  M  M  M  0  M  M  M  0  M  0  0  M  0  0  0  0  M  999
+M  D020  Z020  0  M  0  0  0  M  0  0  0  0  M  X01M  999
+M  M  M  M  L01M  M  0  M  0  0  0  0  0  M  M  W05M  999
+M  0  0  0  0  0  M  0  0  0  0  M  M  M  M  M  K09M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  0  J00J01J02J03J04J05J06J07J08M  999
+M  0  C000  C010  0  0  J09J10J11J12J13J14J15K00K01M  999
+M  0  0  0  0  0  0  0  J16J170  0  J18J190  0  0  M  999
+M  0  C020  C030  L000  J20J210  Z00J22J230  0  0  M  999
+M  0  0  0  0  0  0  0  J24J25J26J27J28J29J30J31J32M  999
+M  M  M  0  M  M  M  M  J33J34J35J36J37J38J39J40J41M  999
+M  0  0  0  0  0  0  0  J42J43J44J45J460  0  0  0  M  999
+M  0  C040  C050  0  0  J47J48J49J50J510  0  0  K02M  999
+M  0  0  0  0  0  0  0  J52J53J54J55J56J570  0  0  M  999
+M  0  C060  C070  0  0  J58J59J60J61J62J63J640  0  M  999
+M  0  0  0  0  0  0  0  J65J66J67J68J69J70J71J72J73M  999
+M  0  0  A  A  A  0  0  J74J75J76M  A  A  A  0  K03M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  E000  0  0  0  0  0  M  J00J01M  0  0  0  0  0  M  999
+M  0  0  0  0  0  B00B01M  J02M  M  0  L000  X000  M  999
+M  0  0  0  0  0  0  0  M  J03J04M  0  M  0  0  0  M  999
+M  M  C00M  M  FH M  M  M  J05M  M  0  M  0  C010  M  999
+M  Z000  0  M  0  0  0  M  J06J07M  0  M  0  0  0  M  999
+M  0  K000  M  0  0  0  S02J08J09FG 0  M  0  0  0  M  999
+M  0  0  0  C030  0  0  S04J10J11FD 0  M  0  0  0  M  999
+M  0  K010  M  0  0  0  M  J12J13M  FH M  0  0  G00M  999
+M  0  0  0  M  0  0  0  M  J14M  M  K02FG W00W01M  M  999
+M  M  M  M  M  0  0  0  M  J15J16M  M  M  M  0  0  M  999
+M  L01L02L03L040  0  0  M  J17M  M  0  0  0  0  0  M  999
+M  0  A  A  A  A  0  0  M  J18J19M  K03K04K05K06K07M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  D000  K000  M  0  0  0  0  0  0  M  0  K010  G00M  999
+M  0  0  0  0  M  0  0  0  T000  0  M  0  0  0  0  M  999
+M  D010  K020  M  0  0  0  0  0  0  M  0  K030  G01M  999
+M  0  0  0  0  M  0  0  0  0  0  0  M  0  0  0  0  M  999
+M  D020  K040  M  0  0  0  0  0  0  M  0  K050  G02M  999
+M  0  0  0  0  M  0  0  0  0  0  0  M  0  0  0  0  M  999
+M  D030  K060  M  0  T01C00C01T020  M  0  K070  G03M  999
+M  M  0  0  0  M  0  0  0  0  0  0  M  0  0  0  M  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  A  0  A  0  A  0  A  A  A  A  A  0  0  L00M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  D000  0  0  0  0  0  0  K000  0  0  0  0  0  G00M  999
+M  M  M  M  M  M  M  W00W01W02W03M  M  M  M  M  M  M  999
+M  J00J01J02J03J04J05J06J07J08J09J10J11J12J13J14J15M  999
+M  M  0  Z000  0  0  0  0  0  0  0  0  0  0  0  M  M  999
+M  M  0  0  0  0  0  0  0  0  0  0  0  Z010  0  M  M  999
+M  J16J17J18J19J20J21J22J23J24J25J26J27J28J29J30J31M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  C000  0  0  C010  0  C020  0  0  0  0  C030  M  999
+M  0  0  0  T000  0  0  0  0  0  T010  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  C040  0  0  0  0  0  0  M  999
+M  0  0  0  0  C050  0  0  0  0  0  0  L000  X000  M  999
+M  0  0  0  A  A  0  A  0  0  0  0  0  A  A  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  D000  0  K000  0  G00M  D010  0  0  K010  0  G01M  999
+M  0  M  0  0  0  0  0  M  0  0  M  0  0  0  0  0  M  999
+M  0  0  0  0  0  M  0  M  0  0  0  0  0  0  0  0  M  999
+M  0  T000  0  0  T010  FD 0  0  T020  M  0  0  0  M  999
+M  0  0  0  M  0  0  0  FG 0  0  0  0  T030  0  0  M  999
+M  M  M  M  M  M  FB FH M  0  0  0  A  0  A  0  0  M  999
+M  0  0  0  0  0  0  0  M  M  FB FH M  M  M  M  M  M  999
+M  0  0  0  0  0  0  0  M  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  M  0  0  T040  M  0  0  0  M  999
+M  0  0  0  0  0  0  0  M  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  T050  0  0  M  0  0  M  0  0  0  T060  M  999
+M  0  0  0  0  0  0  0  M  D020  0  0  K020  0  G02M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  J00M  D00J01J020  J03J04K00J050  J06J07G00M  J08M  999
+M  J09M  0  0  0  0  0  0  0  0  0  0  0  0  M  J10M  999
+M  J11M  M  M  M  M  J12J13J14J15M  M  M  M  M  J16M  999
+M  J17J18J19J20J21J22J23J24J25J26J27J28J29J30J31J32M  999
+M  J33J34J35J36J37J38J39J40J41J42J43J44J45J46J47J48M  999
+M  J49J50J510  C000  0  0  0  M  J52J53J54M  J55J56M  999
+M  M  0  0  C010  0  0  0  0  M  M  M  M  M  M  J57M  999
+M  M  0  C020  0  0  0  0  0  0  0  0  C030  0  M  M  999
+M  M  M  M  M  X000  0  0  0  0  X010  M  M  FH M  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  T000  0  0  0  0  0  T010  0  0  0  0  T020  M  999
+M  0  0  0  0  0  A  0  A  A  A  A  0  A  A  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K000  0  0  0  0  0  0  0  0  0  J00J01J02J03J04M  999
+M  K01Z000  0  0  0  J05J06J07J08J09J10J11J12J13J14M  999
+M  K02A  A  0  0  0  J150  0  0  0  0  0  0  J16J17M  999
+M  J18J19J20J21J22J23J240  L00C000  0  C010  J25J26M  999
+M  M  M  0  0  0  0  J270  0  0  0  0  0  0  J28K03M  999
+M  0  0  0  0  0  0  J29J30J31J32J33J34J35B00J36K04M  999
+M  0  S020  0  0  0  0  0  J370  0  0  J38J39J40X00M  999
+M  0  M  0  0  0  0  0  0  J410  0  0  0  0  0  0  M  999
+M  M  M  0  0  0  0  0  0  J42J43J44J45W00W01W02W03M  999
+M  0  0  0  0  0  0  0  0  M  M  M  J460  0  Z010  M  999
+M  0  0  C030  T00T010  0  C040  M  J47K050  0  G00M  999
+M  0  0  0  0  0  A  0  0  FD 0  M  J48J49J50J51J52M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  Z000  0  0  J00J01J020  0  0  0  M  999
+M  0  C000  C010  C020  C030  J03J04J050  0  0  0  M  999
+M  0  0  0  0  0  A  0  0  0  J06J07J080  K00M  0  M  999
+M  0  C040  C050  M  M  M  FG M  M  M  0  0  C060  M  999
+M  0  0  0  0  0  M  K01M  0  0  G00M  0  0  0  0  M  999
+M  M  M  J09M  M  M  0  0  0  M  0  M  0  K02M  0  M  999
+M  0  M  0  M  0  M  0  0  T000  0  M  0  0  0  0  M  999
+M  0  C070  0  0  M  0  T01M  0  0  M  0  0  0  0  M  999
+M  0  M  0  M  0  M  0  0  0  0  M  M  M  M  C08M  M  999
+M  0  0  0  0  0  M  D000  K03M  M  M  C090  0  0  M  999
+M  0  M  0  M  0  M  M  M  M  M  J10M  C100  T020  M  999
+M  0  0  0  0  0  J11J12J13J14J15J160  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  0  0  0  0  FB 0  0  K000  0  M  999
+M  0  M  L00M  L01M  L02M  L03M  0  0  0  Z00G000  M  999
+M  0  M  0  M  0  M  0  M  0  M  FB M  M  M  M  FH M  999
+M  0  M  0  M  0  M  0  M  0  M  0  0  E000  0  0  M  999
+M  0  M  Z01M  0  M  Z02M  0  M  FB M  M  M  M  FH M  999
+M  0  M  0  FG 0  FG 0  FG 0  FG 0  0  0  0  0  0  M  999
+M  0  M  X00M  X01M  X02M  X03M  0  0  0  0  0  0  M  999
+M  0  FD 0  0  0  0  0  0  0  0  0  C00A  A  0  0  M  999
+M  0  M  0  M  0  M  0  M  0  M  0  M  M  M  M  M  M  999
+M  0  M  0  0  0  0  0  0  0  0  0  0  W00W010  K01M  999
+M  0  M  0  0  0  0  0  0  0  M  0  M  M  W02M  M  M  999
+M  0  M  A  A  0  0  0  0  0  0  0  0  W03W040  K02M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  J000  0  0  0  0  0  0  0  0  0  0  0  J010  M  999
+M  0  T000  0  M  0  0  0  0  0  0  M  0  0  T010  M  999
+M  K00M  0  0  0  0  0  0  0  0  0  0  0  0  M  K01M  999
+M  M  M  0  M  M  M  0  M  M  M  M  M  M  0  M  M  M  999
+M  0  0  0  M  K02W000  0  L000  M  0  0  0  0  0  M  999
+M  0  C000  M  K03W010  0  L010  M  B00K040  0  G00M  999
+M  0  S010  M  K05W020  0  L020  M  0  0  0  0  0  M  999
+M  0  C020  M  K06W030  0  L030  M  B01K070  0  G01M  999
+M  0  0  0  M  M  M  0  M  M  M  M  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  M  M  M  0  M  M  M  999
+M  M  M  0  M  0  0  0  0  0  0  X00FG 0  0  T020  M  999
+M  0  0  0  0  0  0  A  A  0  A  0  FG 0  0  M  K08M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K000  0  0  M  B00B01M  Z000  0  0  0  0  0  0  M  999
+M  M  S00S01S02M  0  B02M  FH M  M  M  M  C03M  M  M  999
+M  0  0  0  0  0  0  0  FG 0  0  0  0  0  0  0  Z01M  999
+M  M  M  0  0  M  M  0  M  FH M  C04M  M  K01M  M  M  999
+M  K02K030  0  G00M  0  M  0  0  0  0  0  0  0  G01M  999
+M  K04K050  0  G02M  0  M  0  0  M  0  0  0  0  0  M  999
+M  M  M  FB FB M  M  0  M  M  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  M  0  0  M  J00J01J02J03J04M  999
+M  0  0  0  0  0  0  0  M  0  T000  J05J06J07J08J09M  999
+M  0  0  0  0  0  0  0  M  0  M  0  J10J110  0  0  M  999
+M  0  0  T010  0  0  0  0  0  0  0  J12J13K06H00K07M  999
+M  0  A  A  0  A  0  0  M  0  0  0  J14J15A  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  D000  0  0  0  0  0  0  0  0  0  0  0  0  0  G00M  999
+M  K000  0  C00C010  0  M  0  M  0  C02C030  0  K01M  999
+M  M  M  M  M  0  0  0  0  0  0  0  0  M  M  FB M  M  999
+M  0  0  0  M  FB M  0  0  0  0  0  M  M  0  0  0  M  999
+M  0  T000  M  0  FD T010  0  0  0  FG 0  0  0  0  M  999
+M  0  0  0  M  K02M  D010  0  0  G01M  K03K04K05K06M  999
+M  0  0  0  M  K07M  D020  0  0  G02M  K08K09K10K11M  999
+M  0  0  0  M  M  M  D030  0  0  G03M  M  M  M  M  M  999
+M  0  0  0  0  0  M  D040  0  0  G04M  0  C04C05C06M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  C07T02C08M  999
+M  0  0  0  0  0  0  0  0  0  0  M  H000  C09C10C11M  999
+M  0  0  A  0  0  0  0  0  A  0  0  0  0  M  K12K13M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  0  0  0  M  0  0  0  0  M  M  M  999
+M  M  0  0  0  0  M  0  C000  M  M  M  M  0  M  K00M  999
+M  D000  0  0  0  0  C010  C020  0  0  0  0  W00K01M  999
+M  D010  0  0  0  0  0  0  0  0  0  0  0  0  W01W02M  999
+M  M  0  0  0  0  M  M  M  M  M  M  M  0  0  0  0  M  999
+M  0  0  0  0  0  M  0  0  M  0  0  M  0  0  0  0  M  999
+M  0  0  0  0  0  M  0  0  C030  0  M  A  A  0  0  M  999
+M  0  0  0  0  0  M  0  0  C040  0  M  M  M  M  M  M  999
+M  0  0  0  0  0  M  0  0  M  0  0  K020  0  0  0  M  999
+M  0  0  0  0  0  C050  0  0  0  0  K030  0  I000  M  999
+M  0  0  0  0  0  C060  0  M  0  0  K040  0  0  0  M  999
+M  0  A  0  0  0  M  0  0  M  0  0  M  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  0  0  M  J00M  K00K01K02K03K04M  999
+M  0  H000  0  0  0  H010  M  J01M  K05C00C01C02K06M  999
+M  M  K070  0  0  0  K08J02J03J04J05K09K10K11K12K13M  999
+M  0  0  0  0  0  0  0  J06J07J08J09J10J11J12J13J14M  999
+M  D000  K140  G000  J15J16J17J18J190  0  0  0  M  M  999
+M  D010  K150  G010  J20C03C04C05J210  0  0  0  K16M  999
+M  0  0  0  0  0  0  J22C06C07C08J230  0  0  Z00K17M  999
+M  M  0  0  0  0  C09J24J25J26J27J280  0  0  0  M  M  999
+M  J29J30J31J32J33J34J35J36J37J38J39J40J41J42J43J44M  999
+M  M  0  0  0  0  M  0  0  0  0  0  0  0  0  0  M  M  999
+M  0  0  C10C110  0  0  0  0  0  0  C12C13C140  0  M  999
+M  0  0  0  A  0  A  0  0  0  A  A  A  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  I000  C000  0  M  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  C010  0  M  0  C020  C030  C040  0  M  999
+M  0  0  0  0  C050  0  M  0  0  0  M  0  0  0  0  M  999
+M  M  M  M  M  M  J00J01M  J02J03J04M  W00W01W02W03M  999
+M  J05J06J07J08J09J10J11M  J12J13J14M  W04W05W06W07M  999
+M  M  M  M  M  M  0  0  M  0  0  0  M  W08M  W09W10M  999
+M  0  0  0  0  0  0  0  C060  0  0  M  K00K01K02K03M  999
+M  0  0  0  0  0  0  0  0  0  0  0  M  M  M  M  M  M  999
+M  0  0  0  S070  0  0  0  0  0  0  M  0  B00B01B02M  999
+M  0  0  S080  S090  0  M  FH FB M  M  D000  0  0  M  999
+M  0  0  0  0  0  0  0  M  0  C100  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  M  0  0  0  M  A  A  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K00W000  0  0  M  J00J01J02J03J04J05J06J07J08J09M  999
+M  M  M  M  0  0  M  J10J11J12J13J14J15J16J17J18J19M  999
+M  K010  M  0  0  M  0  0  0  J200  0  0  0  0  0  M  999
+M  K020  W010  0  M  0  T000  J210  L000  T010  0  M  999
+M  K030  M  0  0  0  0  0  0  J220  T020  0  0  0  M  999
+M  M  M  M  0  T030  0  0  0  J230  0  0  0  T040  M  999
+M  0  0  0  0  0  0  T050  0  0  0  0  0  0  0  0  M  999
+M  0  T060  0  0  0  0  0  0  J240  0  T070  0  0  M  999
+M  0  0  0  T080  0  T090  0  J250  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  J260  0  T100  0  0  M  999
+M  0  X00X01X020  M  W02W03M  J270  0  L010  L020  M  999
+M  0  0  0  0  0  M  K04K05M  J280  0  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  FG 0  0  0  0  0  0  0  FD 0  0  0  0  0  0  M  999
+M  0  C00FG 0  0  0  0  C010  M  0  0  C020  FG 0  M  999
+M  0  0  0  0  FD 0  0  0  0  0  M  0  FH 0  0  0  M  999
+M  0  FG 0  0  0  M  FD 0  FH 0  0  0  0  0  C03FH M  999
+M  0  C040  FH 0  0  0  0  0  0  0  FG 0  0  Z000  M  999
+M  0  FG 0  C050  FD 0  FH 0  FH 0  0  M  M  M  M  M  999
+M  0  FD 0  0  0  C060  0  0  M  J00J01J02J03J04J05M  999
+M  0  FG 0  FG 0  0  0  C070  M  J06J07J08J09J10J11M  999
+M  0  0  0  C080  FH M  0  0  M  J12J13J14J15J16J17M  999
+M  0  FG 0  FH 0  0  0  0  Z01M  J18J19M  J20J21J22M  999
+M  0  FD 0  C09FH 0  C10FG 0  M  M  J23J24K00K01K02M  999
+M  0  FG 0  0  0  0  0  0  0  M  M  J25J26K03K04K05M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  J00J01K000  0  G00M  D000  0  K01M  999
+M  0  0  M  0  0  J02J030  0  0  0  0  0  0  0  0  M  999
+M  0  M  0  M  X00J04J050  0  0  0  0  0  0  0  0  M  999
+M  0  0  C000  0  J06J070  0  0  0  J08J09J10J11J12M  999
+M  0  0  M  0  0  J13J140  J15J16M  J170  0  0  0  M  999
+M  0  C01M  C020  J18J19J20J21J22J23J240  I000  K02M  999
+M  0  0  M  0  0  J25J260  J27J28M  J290  0  0  0  M  999
+M  0  0  M  0  0  J30J310  0  0  0  J32J33J34J35J36M  999
+M  0  0  C030  0  J37J380  0  0  0  0  0  0  0  0  M  999
+M  0  M  0  M  X01J39J400  T000  T010  0  0  0  0  M  999
+M  0  0  M  0  0  J41J420  0  0  0  0  0  0  W00W01M  999
+M  0  0  0  0  0  J43J440  0  0  0  0  0  0  W02K03M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  M  K00K01K02M  999
+M  0  H000  T000  0  0  0  0  0  C000  M  K030  K04M  999
+M  0  0  0  T010  0  0  0  0  0  C010  M  K050  K06M  999
+M  0  0  0  T020  0  0  0  0  0  C020  M  K070  G00M  999
+M  0  0  0  T030  0  0  0  0  0  C030  M  K080  G01M  999
+M  0  0  0  T040  0  0  0  0  0  C040  M  K090  G02M  999
+M  0  0  0  T050  0  0  0  0  0  C050  M  K100  G03M  999
+M  0  0  0  T060  0  0  0  0  0  C060  M  K110  G04M  999
+M  0  0  0  T070  0  0  0  0  0  C070  M  K120  G05M  999
+M  0  0  0  T080  0  0  0  0  0  C080  M  K130  G06M  999
+M  0  0  0  T090  0  0  0  0  0  C090  M  K140  G07M  999
+M  0  A  A  0  A  0  0  A  A  0  0  0  0  0  0  K15M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  K000  0  0  O00M  O01M  O020  0  0  M  999
+M  0  0  0  M  M  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  M  M  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  FG 0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  K01K02K03M  K040  0  0  N00M  N01M  N020  0  0  M  999
+M  M  M  M  M  M  C00C01M  M  M  M  M  M  0  0  0  M  999
+M  0  0  0  0  M  0  0  M  0  0  0  0  0  0  0  0  M  999
+M  0  C020  0  M  0  0  M  0  0  0  0  0  0  0  0  M  999
+M  C03K05C040  M  0  0  M  0  C05T00T01T020  0  0  M  999
+M  0  C060  0  M  M  M  M  0  0  0  M  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K00E000  0  0  0  M  0  0  0  M  M  0  0  C00K01M  999
+M  M  M  0  M  0  0  0  0  0  0  0  0  0  0  C01C02M  999
+M  0  0  0  0  0  0  M  0  0  0  0  0  C030  0  0  M  999
+M  0  0  M  M  M  M  M  0  M  0  0  0  C040  0  0  M  999
+M  0  0  K02Z000  K03M  0  M  0  0  0  0  0  0  0  M  999
+M  0  0  M  M  M  M  M  0  M  M  M  M  M  M  M  FB M  999
+M  0  0  J00J01J02G00J03J04D00J05J06J07J08J090  K04M  999
+M  0  0  J10J11J12J13J14J15J16J17J18J19J20J210  K05M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  J22M  999
+M  0  0  0  0  0  0  0  H000  0  0  0  0  0  0  J23M  999
+M  0  0  M  M  0  T00M  M  M  M  T010  M  M  0  J24M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  J25M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  0  0  0  0  M  0  0  0  0  0  FD 0  M  0  M  999
+M  0  0  0  0  0  0  M  0  0  0  0  0  M  0  M  0  M  999
+M  0  0  X  T000  0  M  0  0  M  0  0  0  E000  0  M  999
+M  0  0  0  0  0  0  M  0  0  0  0  0  M  0  M  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  M  0  M  0  M  999
+M  0  0  0  0  0  0  M  0  0  0  0  0  M  0  T010  M  999
+M  M  M  M  M  M  M  M  0  0  0  0  0  FG 0  M  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  M  0  M  0  M  999
+M  0  M  M  M  M  0  0  0  0  0  0  0  M  0  M  FB M  999
+M  0  M  0  0  0  0  0  0  0  L000  0  M  0  0  0  M  999
+M  0  M  0  M  M  0  C000  0  C010  0  M  0  M  M  M  999
+M  0  K000  G00M  0  0  0  0  0  0  0  FD 0  W00K01M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  M  M  0  J000  0  B00B01K000  0  0  J010  0  G00M  999
+M  D000  0  J020  0  B02K01K02K03B03M  J030  0  M  M  999
+M  J04J05J06J07J08J09J10J11J12J13J14J15J16J17J18J19M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  M  0  0  0  M  999
+M  0  0  0  0  0  0  0  M  0  0  0  0  M  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  M  0  0  0  M  999
+M  0  M  0  M  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  M  0  0  0  0  0  M  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  M  0  0  S000  S010  M  999
+M  0  0  0  0  M  0  M  0  0  0  0  0  0  C020  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  S030  S040  M  999
+M  0  0  0  0  0  0  0  M  M  M  0  0  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  T000  0  0  0  0  0  0  0  C000  0  K00K01K02M  999
+M  0  0  0  0  0  0  C010  0  C020  C030  0  0  0  M  999
+M  0  T010  0  0  C04T02C050  0  0  0  0  0  M  M  M  999
+M  0  0  0  0  O010  O020  O030  O040  O050  M  M  M  999
+M  D00T03K03J00J01J02J03J04J05J06J07J08J09K040  G00M  999
+M  D010  K05R00J10J11J12J13J14J15J16J17J18K06T04G01M  999
+M  D020  K07J19J20J21J22J23J24J25J26J27J28K080  G02M  999
+M  0  0  0  M  0  M  0  M  0  M  0  M  0  0  T050  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  C060  0  0  0  0  0  0  0  0  C070  T060  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  K00K01K020  0  0  0  0  0  M  0  M  0  0  0  0  M  999
+M  0  0  0  0  M  0  M  M  0  0  Q00C000  C010  0  M  999
+M  0  0  0  0  M  0  M  0  0  M  0  M  0  0  0  0  M  999
+M  C02C03C04M  M  Q01M  M  M  M  0  M  M  M  M  FH M  999
+M  0  0  0  M  0  0  0  0  P020  0  0  0  0  0  0  M  999
+M  M  M  M  M  M  T00M  M  M  M  0  M  M  M  M  FH M  999
+M  0  0  0  0  0  0  0  0  0  M  0  0  0  M  0  0  M  999
+M  0  M  M  M  M  0  M  M  0  M  0  T010  0  0  0  M  999
+M  0  M  M  M  0  0  0  M  0  M  0  0  0  M  0  0  M  999
+M  0  M  K03K04K050  G00M  0  M  M  M  M  M  M  FH M  999
+M  0  M  K06K07K080  G01M  0  0  0  0  M  M  0  0  M  999
+M  0  M  K09K10K110  G02M  M  M  M  0  0  0  0  M  M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+M  0  0  M  0  0  0  0  M  0  0  0  M  M  0  0  T00M  999
+M  T010  W000  0  0  0  M  0  L000  0  0  0  0  0  M  999
+M  0  0  M  0  0  0  0  M  M  M  M  M  M  M  0  M  M  999
+M  M  M  M  M  C00C01C02M  0  0  0  0  0  0  0  0  M  999
+M  0  0  0  0  0  0  0  FG 0  0  0  0  0  0  0  0  M  999
+M  0  I000  0  0  0  0  M  0  0  0  0  0  0  M  0  M  999
+M  0  0  0  0  0  0  0  M  0  0  0  0  0  0  M  0  M  999
+M  M  FB M  M  M  M  M  M  M  0  0  0  0  0  M  0  M  999
+M  K00K01K02M  0  0  0  0  0  0  0  0  0  M  M  0  M  999
+M  0  M  M  M  0  0  0  0  0  0  0  0  0  M  W01W02M  999
+M  FB M  M  M  0  0  0  0  0  0  0  0  0  M  W030  M  999
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  M  W04K03M  999
+M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  M  999
+$$$

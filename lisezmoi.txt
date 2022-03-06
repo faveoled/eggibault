@@ -1,0 +1,37 @@
+Eggibault - V1.1
+
+-- A propos de Eggibault ------------------------------------------------------------
+
+Ce jeu est toujours en développement, donc revenez de temps en temps sur KDE-Apps.org pour vérifiez s'il y a des mises à jour.
+Et puis un petit click pour dire que vous avez apprécié ou pas le jeu, ça serait sympa. Enfin un ch'tit mot sur la page de
+téléchargement pour me dire ce que vous avez aimé ou détesté, histoire d'améliorer le jeu.
+
+-- Licence --------------------------------------------------------------------------
+
+La licence est une licence GPL. Toutes les idées, contributions sont les bienvenus.
+
+-- Install --------------------------------------------------------------------------
+
+Décompressez l'archive dans un répertoire puis depuis ce répertoire tapez ./eggibault
+Si vous souhaitez créer une icone sur votre bureau, veuillez pensez à renseigner la zone "dossier de travail" avec le même chemin que la ou se trouve l'éxécutable sinon ça ne marchera pas, le fichier des levels sera introuvable.
+
+-- But du jeu -----------------------------------------------------------------------
+
+Le but du jeu est de ramasser tous les poissons puis de retourner au parasol. Pour jouer les touches sont :
+
+gauche ou 4 : à gauche
+droite ou 6 : à droite
+haut ou 8 : en haut
+bas ou 2 : en bas
+espace ou 5 : utiliser un pouvoir pour transformer un bidon en cube. Les pouvoirs sont obtenus en ramassant des cristaux bleus
+Echap : recommencer le niveau courant
+
+A vous de chercher il existe plein de trucs et astuces. 
+
+-- Contact --------------------------------------------------------------------------
+
+Email : gibault.stephane@wanadoo.fr
+
+-- Remerciement ---------------------------------------------------------------------
+
+Logo Tux dans la barre latérale fait par Nicolas Rougier. Merci pour son autorisation d'utilisation.
